@@ -1,6 +1,6 @@
 # Suwon Lake
 
-An [Omarchy](https://github.com/nichochar/omarchy) theme inspired by the serene lakes of Suwon, South Korea.
+An [Omarchy](https://omarchy.org/) theme inspired by the serene lakes of Suwon, South Korea.
 
 ![preview](preview.png)
 
