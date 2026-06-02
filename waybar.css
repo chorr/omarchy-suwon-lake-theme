@@ -1,0 +1,19 @@
+@define-color foreground #a9b1d6;
+@define-color background #1c1f26;
+@define-color accent #5ec4b8;
+
+/* workspace active/urgent marker */
+
+#workspaces button.active {
+    color: @accent;
+    background-color: rgba(-1,0,0,0.0);
+}
+
+#workspaces button.active label {
+    color: @accent;
+}
+
+#workspaces button.urgent {
+    color: @accent;
+    background-color: rgba(-1,0,0,0.0);
+}
