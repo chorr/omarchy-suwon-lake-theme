@@ -2,10 +2,18 @@
 
 An [Omarchy](https://omarchy.org/) theme inspired by the serene lakes of Suwon, South Korea.
 
-![preview](preview.png)
+![Suwon Lake theme preview](preview.png)
 
-![unlock preview](preview-unlock.png)
+![Lock screen preview](preview-unlock.png)
+
+## Installation
+
+```bash
+omarchy theme install https://github.com/chorr/omarchy-suwon-lake-theme
+```
 
 ## Credits
 
-- Wallpapers by [Jason Leung](https://unsplash.com/collections/4822200/sunset-water) on Unsplash
+Wallpapers provided by Unsplash under the Unsplash License.
+
+Photos by [Jason Leung](https://unsplash.com/@ninjason) on Unsplash.
