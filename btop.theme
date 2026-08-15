@@ -14,31 +14,31 @@ theme[title]="#d4956a"
 theme[hi_fg]="#5ec4b8"
 
 # Background color of selected item in processes box
-theme[selected_bg]="#414868"
+theme[selected_bg]="#283d40"
 
 # Foreground color of selected item in processes box
-theme[selected_fg]="#cfc9c2"
+theme[selected_fg]="#5ec4b8"
 
 # Color of inactive/disabled text
-theme[inactive_fg]="#565f89"
+theme[inactive_fg]="#404a58"
 
 # Color of text appearing on top of graphs, i.e uptime and current network graph scaling
-theme[graph_text]="#a9b1d6"
+theme[graph_text]="#b4bee6"
 
 # Background color of the percentage meters
-theme[meter_bg]="#444b6a"
+theme[meter_bg]="#283d40"
 
 # Misc colors for processes box including mini cpu graphs, details memory graph and details status text
-theme[proc_misc]="#a9b1d6"
+theme[proc_misc]="#b4bee6"
 
 # CPU, Memory, Network, Proc box outline colors
-theme[cpu_box]="#ad8ee6"
-theme[mem_box]="#9ece6a"
-theme[net_box]="#f7768e"
+theme[cpu_box]="#b89ac9"
+theme[mem_box]="#7fc8a9"
+theme[net_box]="#e67e80"
 theme[proc_box]="#5ec4b8"
 
 # Box divider line and small boxes line color
-theme[div_line]="#565f89"
+theme[div_line]="#404a58"
 
 # Temperature graph colors
 theme[temp_start]="#5ec4b8"
@@ -83,4 +83,14 @@ theme[upload_end]="#f7768e"
 # Process box color gradient for threads, mem and cpu usage
 theme[process_start]="#4fb3b8"
 theme[process_mid]="#5ec4b8"
-theme[process_end]="#ad8ee6"
+theme[process_end]="#b89ac9"
+
+# Graph gradient colors
+theme[gradient_color_0]="#1c1f26"
+theme[gradient_color_1]="#2c323c"
+theme[gradient_color_2]="#283d40"
+theme[gradient_color_3]="#404a58"
+theme[gradient_color_4]="#5ec4b8"
+theme[gradient_color_5]="#d4956a"
+theme[gradient_color_6]="#f7768e"
+theme[gradient_color_7]="#c8d0e0"
