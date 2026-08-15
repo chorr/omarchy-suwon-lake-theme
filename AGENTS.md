@@ -40,7 +40,7 @@ Custom dark theme for Omarchy desktop, based on Tokyo Night.
 - `neovim.lua` - Neovim colorscheme (tokyonight)
 - `vscode.json` - VS Code theme (Tokyo Night Storm)
 - `keyboard.rgb` - Keyboard RGB color
-- `icons.theme` - Icon theme (Yaru-purple)
+- `icons.theme` - Icon theme (Yaru-prussiangreen)
 - `unlock.png` - Lock-screen shape asset
 - `preview-unlock.png` - Lock-screen preview image
 - `backgrounds/` - Wallpapers
